@@ -6,7 +6,7 @@ I'm Özge Ataseven,
 
 ## Connect with Me
 
-[LinkedIn](https://uk.linkedin.com/in/ozge-ataseven-ozdol) | [Twitter](https://x.com/eucleas) | [Blogger](https://eucleas.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://uk.linkedin.com/in/ozge-ataseven-ozdol) | [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://x.com/eucleas) | [![Blogger](https://img.shields.io/badge/Blog-Profile-blue?style=for-the-badge&logo=blogger)](https://eucleas.blogspot.com/)
 
 
 ## Let's Connect!
