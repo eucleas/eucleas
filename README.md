@@ -8,6 +8,4 @@ I'm Özge Ataseven,
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/ozge-ataseven-ozdol)
 
-
-## Let's Connect!
 Whether you're a tech enthusiast or simply curious, feel free to reach out. Let's explore together! 🥳
